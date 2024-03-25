@@ -1,0 +1,17 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/SE.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/CountLeadingZero.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/ShiftLeft.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/SignOut.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/FractionAdd.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/ShiftRight.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/DepExpBlock.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/CompExp.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/Adder.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/UC.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/Normalizare.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sources_1/new/main.vhd"
+vhdl xil_defaultlib  "../../../SSC_P.srcs/sim_1/new/AS_NumereVM_tb.vhd"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,81 @@
+Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+-------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2016.4 (win64) Build 1756540 Mon Jan 23 19:11:23 MST 2017
+| Date         : Mon Jan 15 05:03:34 2024
+| Host         : DESKTOP-VMMP50I running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file PmodKYPD_control_sets_placed.rpt
+| Design       : PmodKYPD
+| Device       : xc7a100t
+-------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Flip-Flop Distribution
+3. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Number of unique control sets                            |    19 |
+| Unused register locations in slices containing registers |    54 |
++----------------------------------------------------------+-------+
+
+
+2. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |             125 |           54 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |              45 |           15 |
+| Yes          | No                    | No                     |               4 |            3 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |             100 |           33 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+3. Detailed Control Set Information
+-----------------------------------
+
++---------------------------------------------------------------+-------------------------------------------------------------+-------------------------------------------------------------+------------------+----------------+
+|                          Clock Signal                         |                        Enable Signal                        |                       Set/Reset Signal                      | Slice Load Count | Bel Load Count |
++---------------------------------------------------------------+-------------------------------------------------------------+-------------------------------------------------------------+------------------+----------------+
+|  Calculare_rezultat/comp6/E[0]                                |                                                             | Calculare_rezultat/comp6/AR[0]                              |                1 |              2 |
+|  clk_IBUF_BUFG                                                | Debounce/E[0]                                               | Rst_IBUF                                                    |                1 |              4 |
+|  clk_IBUF_BUFG                                                | Debounce/E[1]                                               | Rst_IBUF                                                    |                2 |              4 |
+|  clk_IBUF_BUFG                                                | Debounce/E[2]                                               | Rst_IBUF                                                    |                2 |              4 |
+|  clk_IBUF_BUFG                                                | Debounce/E[3]                                               | Rst_IBUF                                                    |                1 |              4 |
+|  clk_IBUF_BUFG                                                | Debounce/E[4]                                               | Rst_IBUF                                                    |                1 |              4 |
+|  clk_IBUF_BUFG                                                | Debounce/E[5]                                               | Rst_IBUF                                                    |                1 |              4 |
+|  clk_IBUF_BUFG                                                | Debounce/E[6]                                               | Rst_IBUF                                                    |                1 |              4 |
+|  clk_IBUF_BUFG                                                | Debounce/E[7]                                               | Rst_IBUF                                                    |                1 |              4 |
+|  clk_IBUF_BUFG                                                | Calculare_rezultat/comp6/FSM_sequential_StareCur[3]_i_2_n_0 | Calculare_rezultat/comp6/FSM_sequential_StareCur[3]_i_1_n_0 |                2 |              4 |
+|  clk_IBUF_BUFG                                                | Decodare/Col[3]_i_1_n_0                                     |                                                             |                3 |              4 |
+|  clk_IBUF_BUFG                                                |                                                             |                                                             |                9 |             16 |
+|  clk_IBUF_BUFG                                                |                                                             | Decodare/sclk                                               |                5 |             20 |
+|  clk_IBUF_BUFG                                                |                                                             | Rst_IBUF                                                    |                9 |             23 |
+|  Calculare_rezultat/comp6/FSM_sequential_StareCur_reg[0]_5[0] |                                                             |                                                             |                8 |             23 |
+| ~Calculare_rezultat/comp6/DepSup                              |                                                             |                                                             |               14 |             31 |
+|  clk_IBUF_BUFG                                                | citesc_A_IBUF                                               | Rst_IBUF                                                    |               10 |             32 |
+|  clk_IBUF_BUFG                                                | B                                                           | Rst_IBUF                                                    |               11 |             32 |
+|  enableLoad                                                   |                                                             |                                                             |               23 |             55 |
++---------------------------------------------------------------+-------------------------------------------------------------+-------------------------------------------------------------+------------------+----------------+
+
+
++--------+-----------------------+
+| Fanout | Number of ControlSets |
++--------+-----------------------+
+| 2      |                     1 |
+| 4      |                    10 |
+| 16+    |                     8 |
++--------+-----------------------+
+
+

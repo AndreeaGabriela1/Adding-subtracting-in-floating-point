@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="AS_NumereVM_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="AS_NumereVM_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="5705760000fs"></ZoomStartTime>
+      <ZoomEndTime time="5736160001fs"></ZoomEndTime>
+      <Cursor1Time time="50000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="51"></NameColumnWidth>
+      <ValueColumnWidth column_width="50"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/AS_NumereVM_tb/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/Rst" type="logic">
+      <obj_property name="ElementShortName">Rst</obj_property>
+      <obj_property name="ObjectShortName">Rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/A" type="array">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">FLOATINGPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">24</obj_property>
+      <obj_property name="radix_otherWidth">8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/B" type="array">
+      <obj_property name="ElementShortName">B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">B[31:0]</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">FLOATINGPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">24</obj_property>
+      <obj_property name="radix_otherWidth">8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/A_S" type="logic">
+      <obj_property name="ElementShortName">A_S</obj_property>
+      <obj_property name="ObjectShortName">A_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/S" type="array">
+      <obj_property name="ElementShortName">S[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S[31:0]</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">FLOATINGPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">24</obj_property>
+      <obj_property name="radix_otherWidth">8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/vecT1" type="array">
+      <obj_property name="ElementShortName">vecT1[0:16][31:0]</obj_property>
+      <obj_property name="ObjectShortName">vecT1[0:16][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/vecT2" type="array">
+      <obj_property name="ElementShortName">vecT2[0:16][31:0]</obj_property>
+      <obj_property name="ObjectShortName">vecT2[0:16][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/RezCorect" type="array">
+      <obj_property name="ElementShortName">RezCorect[0:16][31:0]</obj_property>
+      <obj_property name="ObjectShortName">RezCorect[0:16][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/DUT/comp3/MA" type="array">
+      <obj_property name="ElementShortName">MA[22:0]</obj_property>
+      <obj_property name="ObjectShortName">MA[22:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/DUT/comp6/StareCur" type="other">
+      <obj_property name="ElementShortName">StareCur</obj_property>
+      <obj_property name="ObjectShortName">StareCur</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/DUT/DepInf" type="logic">
+      <obj_property name="ElementShortName">DepInf</obj_property>
+      <obj_property name="ObjectShortName">DepInf</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/DUT/DepSup" type="logic">
+      <obj_property name="ElementShortName">DepSup</obj_property>
+      <obj_property name="ObjectShortName">DepSup</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AS_NumereVM_tb/DUT/S" type="array">
+      <obj_property name="ElementShortName">S[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S[31:0]</obj_property>
+   </wvobject>
+</wave_config>

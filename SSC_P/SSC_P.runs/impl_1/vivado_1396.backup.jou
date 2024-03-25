@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Mon Jan 15 04:56:44 2024
+# Process ID: 1396
+# Current directory: D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.runs/impl_1
+# Command line: vivado.exe -log PmodKYPD.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source PmodKYPD.tcl -notrace
+# Log file: D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.runs/impl_1/PmodKYPD.vdi
+# Journal file: D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source PmodKYPD.tcl -notrace

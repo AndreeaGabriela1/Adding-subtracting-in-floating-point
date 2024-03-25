@@ -1,0 +1,17 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sim_1/new/AS_NumereVM_tb.vhd,1705278659,vhdl,,,,as_numerevm_tb,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/Adder.vhd,1670422744,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/main.vhd,,,adder,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/CompExp.vhd,1705265023,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/main.vhd,,,compexp,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/CountLeadingZero.vhd,1705279995,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/Normalizare.vhd,,,countleadingzeroes,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/DepExpBlock.vhd,1670423024,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/main.vhd,,,depexpblock,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/FractionAdd.vhd,1670422668,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/Adder.vhd,,,fractionadd,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/Normalizare.vhd,1705278721,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/main.vhd,,,normalizare,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/SE.vhd,1668637276,vhdl,,,,sumatorelementar,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/ShiftLeft.vhd,1670423262,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/Normalizare.vhd,,,shiftleft,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/ShiftRight.vhd,1670013958,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/main.vhd,,,shiftright,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/SignOut.vhd,1671084554,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/Adder.vhd,,,signout,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/UC.vhd,1670423418,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/main.vhd,,,uc,,,,,,,,
+D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sources_1/new/main.vhd,1705264045,vhdl,D:/Adunarea-si-scaderea-numerelor-in-virgula-mobila-main/SSC_P/SSC_P/SSC_P.srcs/sim_1/new/AS_NumereVM_tb.vhd,,,main,,,,,,,,
